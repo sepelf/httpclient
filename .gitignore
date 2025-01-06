@@ -1,32 +1,11 @@
-# Prerequisites
-*.d
+# eclipse
+.cproject
+.project
+.settings/
 
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
+# for MAC
+.DS_Store
 
-# Precompiled Headers
-*.gch
-*.pch
+# for build
+build/
 
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
-*.app
